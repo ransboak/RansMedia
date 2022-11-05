@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RansMedia/static/css/main.7064deb2.css",
+    "main.js": "/RansMedia/static/js/main.84e8846a.js",
+    "static/media/ransmedialogo.png": "/RansMedia/static/media/ransmedialogo.780fa617d3b34c477c0e.png",
+    "index.html": "/RansMedia/index.html",
+    "main.7064deb2.css.map": "/RansMedia/static/css/main.7064deb2.css.map",
+    "main.84e8846a.js.map": "/RansMedia/static/js/main.84e8846a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.84e8846a.js"
+  ]
+}
